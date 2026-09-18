@@ -1,0 +1,30 @@
+{
+  "name": "Nome del tuo Repository",
+  "identifier": "com.lnlenost.registroelettronico",
+  "subtitle": "Source per app scolastiche",
+  "description": "Source custom per distribuire l'app del registro elettronico.",
+  "iconURL": "https://tuodominio.com/icona_source.png",
+  "headerURL": "https://tuodominio.com/banner_source.png",
+  "website": "https://tuodominio.com",
+  "apps": [
+    {
+      "name": "Registro Elettronico",
+      "bundleIdentifier": "com.lnlenost.registroelettronico",
+      "developerName": "lnlenost",
+      "subtitle": "App per la gestione del registro",
+      "localizedDescription": "Applicazione creata in Flutter per consultare i voti, le assenze e la didattica.",
+      "iconURL": "https://tuodominio.com/icona_app.png",
+      "tintColor": "007AFF",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-18",
+          "size": 25000000,
+          "downloadURL": "https://tuodominio.com/downloads/app.ipa",
+          "localizedDescription": "Prima release dell'app in Flutter.",
+          "minOSVersion": "14.0"
+        }
+      ]
+    }
+  ]
+}
